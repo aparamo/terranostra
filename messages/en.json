@@ -1,0 +1,586 @@
+{
+  "HomePage": {
+    "title": "Welcome to TerraNostra",
+    "description": "Empowering communities through regenerative practices and ecological education.",
+    "heroTitle": "Designing for Wellbeing, Inspired by Nature",
+    "heroSubtitle": "We create sustainable and regenerative systems for personal, community, and planetary well-being.",
+    "heroButton": "Get in Touch",
+    "whatWeDoTitle": "What We Do",
+    "whatWeDoSubtitle": "We offer a range of projects, products, and services to help you live more sustainably.",
+    "projectsTitle": "Projects",
+    "projectsDescription": "Design and implementation of regenerative vegetable garden, rain gardens, pollinator gardens, and more.",
+    "productsTitle": "Products",
+    "productsDescription": "Native plants, seeds, compost, and natural cosmetics to support your sustainable lifestyle.",
+    "servicesTitle": "Services",
+    "servicesDescription": "Consulting, workshops, and courses on permaculture, agroecology, and sustainable development.",
+    "howWeWorkTitle": "How We Work",
+    "howWeWorkSubtitle": "Our work is based on a combination of science, art, and heart.",
+    "scienceTitle": "Science, Ethics and Nature",
+    "scienceDescription": "Our designs are based on permaculture, naturalist landscaping, and agroecology.",
+    "systemsTitle": "Sustainable Systems by Design",
+    "systemsDescription": "We create living spaces that are in harmony with nature and support your well-being.",
+    "praxisTitle": "Praxis",
+    "praxisDescription": "We believe in learning by doing and sharing our knowledge to create deep changes in our ways of life.",
+    "benefitsTitle": "Benefits of Our Work",
+    "benefitsSubtitle": "Our projects and services are designed to bring a range of benefits to you, your community, and the planet.",
+    "benefit1Title": "Improved Nutrition",
+    "benefit1Description": "Access to fresh, organic food from your own garden.",
+    "benefit2Title": "Health & Wellbeing",
+    "benefit2Description": "Spaces for relaxation, reflection, and connection with nature.",
+    "benefit3Title": "Community & Connection",
+    "benefit3Description": "Strengthening community ties through shared work and learning.",
+    "benefit4Title": "Ecological Regeneration",
+    "benefit4Description": "Restoring ecosystems, improving soil health, and managing water efficiently.",
+    "whatCanBeDoneTitle": "What Can Be Done",
+    "whatCanBeDoneSubtitle": "Our work can be applied in a variety of contexts, from small gardens to large-scale projects.",
+    "item1Title": "Ecosystem Restoration",
+    "item2Title": "Homestead and Garden Designs",
+    "item3Title": "Food Forests",
+    "item4Title": "Closed Looped Systems",
+    "item5Title": "Organic and Sustainable Food",
+    "item6Title": "Sustainable Living",
+    "item7Title": "Wellbeing",
+    "item8Title": "Self Care",
+    "item9Title": "Water Systems",
+    "clientsTitle": "Clients and Partners",
+    "clientsSubtitle": "We are proud to work with a diverse range of clients and partners.",
+    "testimonialsTitle": "Garden Transformations",
+    "testimonialsSubtitle": "See how we've turned ordinary grass patches into thriving, living ecosystems",
+    "testimonialValeName": "Vale",
+    "testimonialValeRole": "Home Garden Owner",
+    "testimonialValeStory": "Our backyard was just grass and concrete. Now it's a living ecosystem with herbs, flowers, and life everywhere. The transformation is incredible!",
+    "testimonialValeBeforeAfter": "From barren grass to thriving biodiversity",
+    "testimonialTaniaName": "Tania",
+    "testimonialTaniaRole": "Urban Gardener",
+    "testimonialTaniaStory": "What was once a lifeless patch of grass is now our family's favorite place. We grow our own food and the kids love watching butterflies visit our garden.",
+    "testimonialTaniaBeforeAfter": "From empty lawn to family sanctuary",
+    "readyToTransform": "Ready to transform your space?",
+    "startTransformation": "Start Your Transformation",
+    "ctaTitle": "Ready to start your project?",
+    "ctaSubtitle": "Let's work together to create a more sustainable future.",
+    "ctaButton": "Contact Us"
+  },
+  "HomeServices": {
+    "explore": "Explore Our Work",
+    "learn": "Learn About Permaculture",
+    "title": "What We Do",
+    "subtitle": "We offer a range of projects, products, and services to help you live more sustainably.",
+    "projectsTitle": "Projects",
+    "projectsDescription": "Design and implementation of regenerative orchards, rain gardens, pollinator gardens, and more.",
+    "productsTitle": "Products",
+    "productsDescription": "Native plants, seeds, compost, and natural cosmetics to support your sustainable lifestyle.",
+    "servicesTitle": "Services",
+    "servicesDescription": "Consulting, workshops, and courses on permaculture, agroecology, and sustainable development."
+  },
+  "AboutPage": {
+    "title": "About Us",
+    "description": "TerraNostra is dedicated to empowering communities through regenerative practices and ecological education.",
+    "ourMissionTitle": "Our Mission",
+    "ourMissionSubtitle": "A commitment to regeneration",
+    "ourMissionDescription": "We believe in the power of regenerative practices to heal our planet and ourselves. Our mission is to empower individuals and communities with the knowledge and tools to create a more sustainable and abundant future.",
+    "ourStoryTitle": "Our Story",
+    "ourStorySubtitle": "From a shared vision to a collective reality",
+    "ourStoryDescription": "TerraNostra was born from a shared passion for nature and a desire to make a positive impact. What started as a small community garden has grown into a thriving ecosystem of projects, products, and services that are helping to create a more sustainable world.",
+    "ourTeamTitle": "Our Team",
+    "ourTeamSubtitle": "The people behind TerraNostra",
+    "founder": "Founder & Lead Designer",
+    "ecologist": "Ecologist & Educator",
+    "communityManager": "Community Manager",
+    "caroBio1": "I'm Carolina Lara, I studied Ecology and later specialized in natural resource management and rural development. For many years I worked in rural communities on projects related to land use change and territorial and landscape planning, as well as some productive projects.",
+    "caroBio2": "Later, I had the opportunity to take a course on organic agriculture and permaculture that completely changed my professional and personal perspective. It allowed me to realize the system we live in and above all to reflect on our life model, the food production system, contact with nature and the relationship between our self-care and caring for the planet.",
+    "caroBio3": "Currently, I dedicate myself to ecological design and complement it with tools such as coaching, seeking that designs take into account not only environmental conditions but also the needs and interests of users, and that the benefits of a garden or green area are environmentally sustainable and generate benefits at the mental and emotional level.",
+    "adriBio1": "Permaculture and political agroecology changed my life. First I studied sustainable development at Colmex in the LEAD program, then I worked at a well-known Mexican climate foundation and eventually I went to live in the countryside to plant and experiment with living in other ways.",
+    "adriBio2": "I have made gardens, managing to feed up to 23 families each month, I have participated in the design and implementation of a couple of projects of 1 hectare or a little less, planting medicinal gardens, implementing greenhouses, seed houses, chicken coops, biofactories and more.",
+    "adriBio3": "I believe that the fact that I have worked with the land for more than 10 years allows me to give a more grounded vision with greater experience, as well as better recommendations and results for anyone who wants to collaborate with us.",
+    "skillsTitle": "Core Skills",
+    "skillPermaculture": "Permaculture Design",
+    "skillAgroecology": "Agroecology",
+    "skillFoodForests": "Food Forests",
+    "skillCommunity": "Community Building",
+    "skillEcology": "Ecology",
+    "skillRestoration": "Ecological Restoration",
+    "skillBiodiversity": "Biodiversity",
+    "skillSustainability": "Sustainability Science",
+    "teamHeaderTitle": "Our Roots Run Deep",
+    "teamHeaderSubtitle": "Meet the visionaries cultivating regenerative futures through ecological design and permaculture innovation.",
+    "responsibilitiesTitle": "Key Responsibilities",
+    "philosophyTitle": "Our Philosophy",
+    "philosophyText": "We believe that regenerative design mimics nature's patterns, creating systems that heal the earth while nurturing human communities. Through permaculture principles and ecological innovation, we cultivate abundance that flows in harmony with natural cycles.",
+    "respVision": "Strategic Vision",
+    "respDesign": "Ecosystem Design",
+    "respClientRelations": "Client Relations",
+    "respResearch": "Research & Development",
+    "respInnovation": "Innovation Strategy",
+    "respTech": "Technology Integration",
+    "respLeadership": "Team Leadership",
+    "respMetrics": "Sustainability Metrics",
+    "clickToSeeMore": "Click to see more"
+  },
+  "ProjectsPage": {
+    "title": "Our Projects",
+    "description": "Discover our work in creating sustainable and regenerative systems.",
+    "project1Title": "Food Forest",
+    "project1Description": "A diverse, edible ecosystem designed for abundance and resilience.",
+    "project2Title": "Medicinal Garden",
+    "project2Description": "A healing space filled with plants that nourish the body and soul.",
+    "project3Title": "Pollinator Habitat",
+    "project3Description": "A vibrant haven for bees, butterflies, and other essential pollinators.",
+    "project4Title": "Composting System",
+    "project4Description": "Transforming organic waste into a valuable resource for soil health.",
+    "project5Title": "Nurseries and Reproduction",
+    "project5Description": "Designing sustainable greenhouses and plant reproduction systems to maximize plant production and diversity.",
+    "project6Title": "Regenerative vegetable garden",
+    "project6Description": "A productive vegetable garden that regenerates soil and enhances biodiversity.",
+    "readMore": "Read More",
+    "designPhilosophyTitle": "Our Design Approach",
+    "designPhilosophyDescription1": "The type of design we develop is supported by different sciences, knowledge and schools of thought such as permaculture, naturalistic landscaping and agroecology.",
+    "designPhilosophyDescription2": "Each of them provides design principles that are based on caring for nature. Integrating biodiversity and native species, using organic fertilizers, regenerating soils, efficiently managing water, and generating landscapes that maintain ecosystem services and functions.",
+    "projectTypesTitle": "What types of projects can we help you with",
+    "permacultura": "Permaculture",
+    "paisajismoNaturalista": "Naturalistic Landscaping",
+    "agroecologia": "Agroecology",
+    "projectTypes": {
+      "familyGardens": "Family Gardens",
+      "smallFarms": "Small Farms",
+      "communitySpaces": "Community Spaces",
+      "publicSpaces": "Public Gardens",
+      "educationalProjects": "Educational Projects",
+      "communityInitiatives": "Community Initiatives"
+    },
+    "socioenvironmentalBenefits": {
+      "soilFertility": "Improves soil fertility naturally",
+      "reduceChemicalFertilizers": "Reduces dependence on chemical fertilizers",
+      "promoteLocalBiodiversity": "Promotes local biodiversity",
+      "strengthenFoodSovereignty": "Strengthens family food sovereignty",
+      "increasePollinators": "Increases native pollinator population",
+      "improveFruitProduction": "Improves fruit and vegetable production",
+      "educateBiodiversity": "Educates about the importance of biodiversity",
+      "createNaturalBeauty": "Creates spaces of natural beauty in the community",
+      "createSelfSustainingEcosystems": "Creates self-sustaining ecosystems",
+      "provideYearRoundFood": "Provides food throughout the year",
+      "restoreNaturalHabitats": "Restores natural habitats",
+      "reduceSoilErosion": "Reduces soil erosion",
+      "preserveTraditionalMedicine": "Preserves traditional medicine knowledge",
+      "reduceHealthCosts": "Reduces family health costs",
+      "promoteMedicinalSelfSufficiency": "Promotes medicinal self-sufficiency",
+      "conserveNativeSpecies": "Conserves native medicinal species",
+      "reduceOrganicWaste": "Reduces organic waste in landfills",
+      "createNaturalFertilizer": "Creates high-quality natural fertilizer",
+      "improveSoilStructure": "Improves soil structure",
+      "reduceMethaneEmissions": "Reduces methane emissions",
+      "preserveLocalSeedVarieties": "Preserves local seed varieties",
+      "reduceProductionCosts": "Reduces production costs",
+      "strengthenFoodAutonomy": "Strengthens food autonomy",
+      "maintainGeneticDiversity": "Maintains genetic diversity"
+    },
+    "detailedDescriptions": {
+      "regenerativeHuerto": "Regenerative garden system that restores soil health and promotes sustainable food production.",
+      "pollinatorHabitat": "Gardens specifically designed to attract and sustain pollinators, essential for food production.",
+      "foodForest": "Edible forests that mimic the natural structure of forest ecosystems to produce food sustainably.",
+      "medicinalGarden": "Specialized gardens in medicinal plants that combine ancestral wisdom with modern sustainable practices.",
+      "compostingSystem": "Composting systems that transform organic waste into valuable resources for soil fertilization.",
+      "nurseryReproduction": "Specialized nurseries in the reproduction and conservation of native plants and adapted local varieties."
+    }
+  },
+  "DesignPhilosophy": {
+    "permacultura": {
+      "title": "Permaculture",
+      "description": "A comprehensive design system that seeks to create sustainable and ecologically healthy human settlements.",
+      "principlesTitle": "Fundamental Principles",
+      "careOfEarth": "Care of the Earth: Preserve and regenerate natural systems",
+      "careOfPeople": "Care of People: Meet human needs in a sustainable way",
+      "fairShare": "Fair Share: Distribute resources and surpluses equitably",
+      "applicationsTitle": "Practical Applications",
+      "gardenDesign": "Design of edible gardens and landscapes",
+      "waterSystems": "Water harvesting and reuse systems",
+      "naturalBuilding": "Natural and local material construction",
+      "animalIntegration": "Animal integration in agricultural systems",
+      "benefitsTitle": "Benefits",
+      "foodSelfSufficiency": "Greater food self-sufficiency",
+      "environmentalImpact": "Reduced environmental impact",
+      "climateResilience": "Resilience to climate changes",
+      "communityStrengthening": "Strengthening of local communities"
+    },
+    "paisajismo": {
+      "title": "Naturalistic Landscaping",
+      "description": "Design of spaces that imitate and celebrate the beauty and functionality of natural ecosystems.",
+      "designApproachTitle": "Design Approach",
+      "naturalPatterns": "Observation of natural patterns",
+      "nativePlants": "Use of native and adapted plants",
+      "wildlifeHabitats": "Creation of wildlife habitats",
+      "harmoniousIntegration": "Harmonious integration with the environment",
+      "keyElementsTitle": "Key Elements",
+      "pollinatorGardens": "Pollinator gardens",
+      "biodiversityCorridors": "Biodiversity corridors",
+      "naturalDrainage": "Natural drainage systems",
+      "organicMaterials": "Organic and recycled materials",
+      "environmentalImpactTitle": "Environmental Impact",
+      "nativeSpecies": "Conservation of native species",
+      "airQuality": "Improved air quality",
+      "soilErosion": "Reduced soil erosion",
+      "microclimates": "Creation of beneficial microclimates"
+    },
+    "agroecologia": {
+      "title": "Agroecology",
+      "description": "Science that integrates ecological principles in the design and management of sustainable agricultural systems.",
+      "scientificPrinciplesTitle": "Scientific Principles",
+      "biodiversity": "Biological diversity in agricultural systems",
+      "nutrientRecycling": "Nutrient and energy recycling",
+      "ecologicalInteractions": "Beneficial ecological interactions",
+      "systemAdaptation": "System adaptation and evolution",
+      "sustainablePracticesTitle": "Sustainable Practices",
+      "cropRotation": "Crop rotation and association",
+      "pestManagement": "Integrated pest management",
+      "soilConservation": "Soil conservation",
+      "waterEfficiency": "Efficient water resource use",
+      "socioeconomicBenefitsTitle": "Socioeconomic Benefits",
+      "productionStability": "Greater production stability",
+      "inputCosts": "Reduced input costs",
+      "nutritionalQuality": "Improved nutritional quality",
+      "localMarkets": "Strengthening of local markets"
+    },
+    "howWeApply": "How do we apply {approach} in our projects?",
+    "howWeApplyDescription": "Each project we develop integrates these principles holistically, adapting them to the specific conditions of the place and the needs of the community. Our team combines scientific knowledge with traditional wisdom to create solutions that are both ecologically healthy and socially just."
+  },
+  "ServicesPage": {
+    "title": "Our Services",
+    "description": "We offer a range of services to help you create your own sustainable systems."
+  },
+  "ProductsPage": {
+    "title": "Our Products",
+    "description": "Browse our selection of native seeds, plants, and organic skincare products."
+  },
+  "ContactPage": {
+    "title": "Contact Us",
+    "description": "Get in touch with us to learn more about our work and how we can help you."
+  },
+  "Header": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "services": "Services",
+    "products": "Products",
+    "contact": "Contact"
+  },
+  "Footer": {
+    "copyright": "© {year} TerraNostra. All rights reserved.",
+    "aboutTitle": "About TerraNostra",
+    "aboutText": "Empowering communities through regenerative practices and ecological education.",
+    "quickLinksTitle": "Quick Links",
+    "about": "About",
+    "projects": "Projects",
+    "services": "Services",
+    "contact": "Contact",
+    "contactTitle": "Contact Us",
+    "address": "123 Sustainable Way, Ecoville, 45678",
+    "email": "info@TerraNostra.eco",
+    "phone": "+52 221 164 4452",
+    "followUsTitle": "Follow Us"
+  },
+  "LocaleSwitcher": {
+    "de": "Deutsch",
+    "es": "Spanish",
+    "en": "English",
+    "label": "Language"
+  },
+  "LoginPage": {
+    "credentials": "Credentials: jane@doe.com / next-intl",
+    "description": "Please enter your details.",
+    "email": "Email",
+    "invalidCredentials": "Please check your credentials.",
+    "invalidEmail": "Please enter a valid email address.",
+    "invalidPassword": "Please enter a password.",
+    "login": "Sign in",
+    "password": "Password",
+    "title": "Welcome back"
+  },
+  "ProfilePage": {
+    "title": "Profile"
+  },
+  "SecondEcoHero": {
+    "subtitle": "TerraNostra - Ecodesign",
+    "title": "Designing for",
+    "highlight": "Wellbeing",
+    "inspired": "Inspired by Nature",
+    "description": "We create sustainable and regenerative systems for personal, community, and planetary well-being through biomimetic design principles and permaculture wisdom.",
+    "ctaExplore": "Explore Our Work",
+    "ctaLearn": "Learn About Permaculture"
+  },
+  "AboutHero": {
+    "title": "About Us",
+    "description": "TerraNostra is dedicated to empowering communities through regenerative practices and ecological education."
+  },
+  "ProjectsHero": {
+    "title": "Our Projects",
+    "description": "Discover our work in creating sustainable and regenerative systems that foster collaboration and connect communities."
+  },
+  "ServicesHero": {
+    "title": "Our Services",
+    "description": "We offer a range of services to help you create your own sustainable systems, from consulting and design to workshops and courses."
+  },
+  "ServicesHowWork": {
+    "title": "How We Work",
+    "subtitle": "Our approach is based on the combination of science, art, and heart to create regenerative systems.",
+    "services": {
+      "consulting": {
+        "title": "Consulting",
+        "description": "Specialized advice on ecological design, permaculture, and agroecology for projects of any scale."
+      },
+      "training": {
+        "title": "Training",
+        "description": "Customized workshops and courses to develop practical skills in regenerative systems."
+      },
+      "mentoring": {
+        "title": "Mentoring",
+        "description": "Personalized accompaniment for landowners and farmers in implementing their projects."
+      },
+      "projects": {
+        "title": "Projects",
+        "description": "Complete design and implementation of regenerative systems from planning to execution."
+      }
+    },
+    "cta": {
+      "title": "Ready to start your project?",
+      "description": "Contact us to discuss how we can help you create a more sustainable future.",
+      "button": "Start Your Transformation"
+    }
+  },
+  "ContactHero": {
+    "title": "Get in Touch",
+    "description": "We'd love to hear from you. Whether you have a question about our services, want to discuss a project, or just want to say hello, feel free to reach out."
+  },
+  "ContactForm": {
+    "title": "Let's Grow Together",
+    "description": "Tell us about your permaculture vision and how we can help bring it to life",
+    "fullName": "Full Name",
+    "fullNamePlaceholder": "Your full name",
+    "email": "Email Address",
+    "emailPlaceholder": "your@email.com",
+    "phone": "Phone Number",
+    "phonePlaceholder": "+1 (555) 123-4567",
+    "location": "Location",
+    "locationPlaceholder": "City, State/Country",
+    "servicesInterest": "What services are you interested in?",
+    "services": {
+      "design": "Design Services",
+      "implementation": "Project Implementation",
+      "courses": "Courses & Workshops",
+      "products": "Plants, Seeds & Natural Products"
+    },
+    "timeline": "Project Timeline",
+    "timelinePlaceholder": "When would you like to start?",
+    "timelineOptions": {
+      "asap": "As soon as possible",
+      "oneToThreeMonths": "Within 1-3 months",
+      "threeToSixMonths": "Within 3-6 months",
+      "sixToTwelveMonths": "Within 6-12 months",
+      "planning": "Just planning ahead"
+    },
+    "needsTitle": "Tell us about your needs and vision",
+    "needsPlaceholder": "Describe your project, goals, challenges, or any specific questions you have. The more details you share, the better we can help you create a sustainable and thriving ecosystem.",
+    "budget": "Budget Range (Optional)",
+    "budgetPlaceholder": "Select your budget range",
+    "budgetOptions": {
+      "under1k": "Under $1,000",
+      "oneToFiveK": "$1,000 - $5,000",
+      "fiveToFifteenK": "$5,000 - $15,000",
+      "fifteenToFiftyK": "$15,000 - $50,000",
+      "fiftyKPlus": "$50,000+",
+      "discuss": "Let's discuss"
+    },
+    "submit": "Plant the Seeds of Collaboration",
+    "responseMessage": "We typically respond within 24 hours. Let's cultivate something amazing together! 🌱"
+  },
+  "ContactInfo": {
+    "title": "Contact Information",
+    "description": "Have questions? We're here to help. Reach out to us by email, phone, or through our social media channels.",
+    "email": "info@terranostra.eco",
+    "phone": "+52 221 164 4452",
+    "followUs": "Follow Us"
+  },
+  "ServicesCatalog": {
+    "title": "Our Ecological Design & Permaculture Services",
+    "subtitle": "We offer a holistic suite of services to design, implement, and manage regenerative systems at any scale, from urban gardens to large rural landscapes.",
+    "design": {
+      "title": "I. Ecological Design",
+      "items": [
+        {
+          "title": "Permaculture Design Master Plans",
+          "description": "Conceptual and detailed design for farms, farms and communities, including zone and sector planning, water harvesting, food forests and integrated animal systems. Climate and microclimate assessment, topography and hydrology mapping, soil analysis, sun and shade patterns, existing vegetation and wildlife inventory, and resource inventory."
+        },
+        {
+          "title": "Regenerative Landscaping and Gardening",
+          "description": "Design of edible landscapes, pollinator gardens and wildlife gardens, rain gardens, medicinal gardens and aromatic herb spirals."
+        },
+        {
+          "title": "Landscape-Scale Ecological Design",
+          "description": "Watershed restoration planning, riparian zone rehabilitation, ecological corridor design, food forests, and agroforestry and silvopastoral systems."
+        }
+      ]
+    },
+    "education": {
+      "title": "II. Education, Training and Capacity Building",
+      "items": [
+        {
+          "title": "Tailored workshops and courses",
+          "description": "Landscape design courses, permaculture, agroecology principles, garden design, gardens and various systems."
+        },
+        {
+          "title": "On-Site Demonstrations and Tours",
+          "description": "Showcasing implemented projects as learning sites and practical skill-building sessions."
+        },
+        {
+          "title": "Mentorship Programs",
+          "description": "Personalized guidance for landowners/farmers, focused on accompaniment in the design of their spaces or projects."
+        },
+        {
+          "title": "Educational Material Development",
+          "description": "Custom guides, manuals, online courses, webinars and curriculum development for schools and communities."
+        }
+      ]
+    },
+    "monitoring": {
+      "title": "III. Monitoring, Evaluation and Research",
+      "items": [
+        {
+          "title": "Ecological Impact Monitoring",
+          "description": "Tracking progress in soil health, biodiversity studies, water quality monitoring and carbon sequestration assessment."
+        },
+        {
+          "title": "System Performance Evaluation",
+          "description": "Assessment of productivity, yield diversity, water system efficiency and economic viability."
+        },
+        {
+          "title": "Applied Research and Development",
+          "description": "Design and management of field research trials, participatory action research and documentation of best practices."
+        }
+      ]
+    },
+    "productsCta": {
+      "title": "Need Plants, Seeds, or Natural Products?",
+      "description": "While designing your ideal ecosystem, remember that we also provide a curated selection of native seeds, robust plants, and organic products to bring your project to life.",
+      "button": "Explore Products"
+    }
+  },
+  "SeedsSection": {
+    "title": "Premium Organic",
+    "titleHighlight": "Seeds Collection",
+    "description": "Discover our carefully curated selection of organic, heirloom, and traditional seeds. Each seed is selected for its quality, germination rate, and contribution to biodiversity.",
+    "features": {
+      "organicSeeds": {
+        "title": "100% Organic Seeds",
+        "description": "All our seeds are certified organic, ensuring they're free from synthetic chemicals and grown using sustainable practices."
+      },
+      "germinationRate": {
+        "title": "High Germination Rate",
+        "description": "We test every batch to ensure optimal germination rates, giving you the best start for your garden."
+      },
+      "traditionalVarieties": {
+        "title": "Traditional Varieties",
+        "description": "Preserve biodiversity with our collection of heirloom and traditional seed varieties that have been passed down through generations."
+      }
+    },
+    "catalog": {
+      "title": "Seed Catalog",
+      "description": "Our comprehensive seed catalog is being updated with the latest varieties. Get notified when it's ready and receive exclusive early access.",
+      "downloadButton": "Download Catalog",
+      "learnMoreButton": "Learn More & Subscribe"
+    },
+    "status": {
+      "organicSeeds": "100% Organic",
+      "highGermination": "High Germination",
+      "traditionalVarieties": "Traditional Varieties"
+    }
+  },
+  "PlantsSection": {
+    "title": "Native & Ecological",
+    "titleHighlight": "Plants Collection",
+    "description": "Transform your space with our selection of native plants, ecological restoration species, and garden favorites. Each plant is chosen for its environmental benefits and beauty.",
+    "features": {
+      "nativeSpecies": {
+        "title": "Native Species",
+        "description": "Support local ecosystems with plants that are naturally adapted to your region's climate and soil conditions."
+      },
+      "ecologicalRestoration": {
+        "title": "Ecological Restoration",
+        "description": "Specialized plants for restoring degraded landscapes, improving soil health, and creating wildlife habitats."
+      },
+      "acceleratedGrowth": {
+        "title": "Accelerated Growth",
+        "description": "Our plants are grown using advanced techniques to ensure strong root development and rapid establishment."
+      }
+    },
+    "catalog": {
+      "title": "Plants Catalog",
+      "description": "Our comprehensive plants catalog is being updated with the latest varieties. Get notified when it's ready and receive exclusive early access.",
+      "downloadButton": "Download Catalog",
+      "learnMoreButton": "Learn More & Subscribe"
+    },
+    "status": {
+      "certifiedNative": "Certified Native",
+      "ecologicalRestoration": "Ecological Restoration",
+      "guaranteedGrowth": "Guaranteed Growth"
+    }
+  },
+  "EmailSubscription": {
+    "title": "Stay Updated",
+    "description": "Subscribe to receive updates about our products, special offers, and gardening tips. We'll notify you as soon as our catalogs are ready!",
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "Enter your full name",
+      "email": "Email Address",
+      "emailPlaceholder": "Enter your email address",
+      "interests": "Product Interests",
+      "message": "Additional Message",
+      "messagePlaceholder": "Tell us about your gardening goals or any specific questions...",
+      "newsletter": "Subscribe to our newsletter for gardening tips and updates",
+      "submit": "Subscribe & Get Notified",
+      "submitting": "Subscribing..."
+    },
+    "success": {
+      "title": "Thank You!",
+      "message": "You've been successfully subscribed. We'll notify you as soon as our catalogs are ready and send you exclusive updates!"
+    }
+  },
+  "ProductsLoading": {
+    "title": "Loading Our Green Collection",
+    "description": "Discovering the finest seeds, plants, and sustainable solutions for your garden..."
+  },
+  "SelfCareSection": {
+    "title": "Discover Our Premium",
+    "titleHighlight": "Self-Care Products",
+    "description": "Experience the highest quality natural products and business opportunities with our trusted partners. We've carefully selected partners who share our values of sustainability, quality, and personal care.",
+    "features": {
+      "highestQuality": {
+        "title": "Highest Quality Standards",
+        "description": "All products meet rigorous quality standards, ensuring you receive only the best natural ingredients and formulations."
+      },
+      "businessOpportunities": {
+        "title": "Business Opportunities",
+        "description": "Explore partnership opportunities and business models that align with sustainable and regenerative practices."
+      },
+      "personalExperience": {
+        "title": "Personal Experience",
+        "description": "Our partners have personally tested and experienced the benefits of these products and business models."
+      }
+    },
+    "discover": {
+      "title": "Discover Our Partners",
+      "description": "Learn more about our trusted partners and explore their products and business opportunities.",
+      "exploreButton": "Explore Partners"
+    },
+    "partnerSelection": {
+      "title": "Do you know them?",
+      "description": "Do you know Caro or Adri?",
+      "caro": "Caro",
+      "adri": "Adri",
+      "neither": "You don't know either",
+      "neitherDescription": "We'll automatically assign you to one of our partners based on our fair rotation system."
+    },
+    "status": {
+      "highestQuality": "Highest Quality",
+      "businessOpportunities": "Business Opportunities",
+      "personalExperience": "Personal Experience"
+    }
+  }
+}

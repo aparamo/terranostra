@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  -webkit-font-smoothing: antialiased;
+  @apply outline-sky-600;
+}
+
+/* 3D Perspective for flip cards */
+.perspective-1000 {
+  perspective: 1000px;
+  perspective-origin: center center;
+}
+
+/* Ensure smooth 3D transforms */
+.perspective-1000 * {
+  transform-style: preserve-3d;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+@layer base {
+  :root {
+    --background: 0 0% 100%; /* white */
+    --foreground: 170 60% 30%; /* desaturated cyan-green */
+    --card: 0 0% 100%; /* white */
+    --card-foreground: 170 60% 30%; /* desaturated cyan-green */
+    --popover: 0 0% 100%; /* white */
+    --popover-foreground: 0 0% 3.9%; /* black */
+    --primary: 170 60% 30%; /* desaturated cyan-green */
+    --primary-foreground: 0 0% 98%; /* almost white */
+    --secondary: 0 0% 96.1%; /* very light grey */
+    --secondary-foreground: 170 60% 30%; /* desaturated cyan-green */
+    --muted: 0 0% 96.1%; /* very light grey */
+    --muted-foreground: 0 0% 45.1%; /* medium grey */
+    --accent: 0 0% 96.1%; /* very light grey */
+    --accent-foreground: 0 0% 9%; /* dark grey */
+    --destructive: 0 84.2% 60.2%; /* red */
+    --destructive-foreground: 0 0% 98%; /* almost white */
+    --border: 0 0% 89.8%; /* light grey */
+    --input: 0 0% 89.8%; /* light grey */
+    --ring: 0 0% 3.9%; /* black */
+    --chart-1: 12 76% 61%; /* orange */
+    --chart-2: 173 58% 39%; /* green-cyan */
+    --chart-3: 197 37% 24%; /* dark blue */
+    --chart-4: 43 74% 66%; /* yellow-gold */
+    --chart-5: 27 87% 67%; /* orange */
+    --radius: 0.5rem;
+  }
+  .dark {
+    --background: 180 20% 5%; /* very dark cyan-blue */
+    --foreground: 45 30% 85%; /* light yellow-brown */
+    --card: 180 20% 8%; /* dark cyan-blue */
+    --card-foreground: 45 30% 85%; /* light yellow-brown */
+    --popover: 180 20% 8%; /* dark cyan-blue */
+    --popover-foreground: 45 30% 85%; /* light yellow-brown */
+    --primary: 170 60% 30%; /* desaturated cyan-green */
+    --primary-foreground: 45 30% 90%; /* very light yellow-brown */
+    --secondary: 180 15% 12%; /* dark cyan-blue */
+    --secondary-foreground: 45 30% 85%; /* light yellow-brown */
+    --muted: 180 15% 12%; /* dark cyan-blue */
+    --muted-foreground: 45 30% 70%; /* light yellow-brown */
+    --accent: 180 15% 12%; /* dark cyan-blue */
+    --accent-foreground: 45 30% 85%; /* light yellow-brown */
+    --destructive: 0 63% 31%; /* dark red */
+    --destructive-foreground: 0 86% 97%; /* very light red */
+    --border: 180 15% 15%; /* dark cyan-blue */
+    --input: 180 15% 15%; /* dark cyan-blue */
+    --ring: 170 60% 30%; /* desaturated cyan-green */
+    --chart-1: 170 70% 50%; /* cyan-green */
+    --chart-2: 170 60% 45%; /* cyan-green */
+    --chart-3: 170 80% 55%; /* cyan-green */
+    --chart-4: 170 65% 60%; /* cyan-green */
+    --chart-5: 170 75% 55%; /* cyan-green */
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}

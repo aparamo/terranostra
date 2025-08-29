@@ -1,0 +1,515 @@
+{
+  "HomePage": {
+    "title": "Willkommen bei TerraNostra",
+    "description": "Gemeinschaften durch regenerative Praktiken und ökologische Bildung stärken.",
+    "heroTitle": "Design für Wohlbefinden, inspiriert von der Natur",
+    "heroSubtitle": "Wir schaffen nachhaltige und regenerative Systeme für persönliches, gemeinschaftliches und planetarisches Wohlbefinden.",
+    "heroButton": "Kontakt aufnehmen",
+    "whatWeDoTitle": "Was wir tun",
+    "whatWeDoSubtitle": "Wir bieten eine Reihe von Projekten, Produkten und Dienstleistungen an, um Ihnen zu helfen, nachhaltiger zu leben.",
+    "projectsTitle": "Projekte",
+    "projectsDescription": "Design und Umsetzung von regenerativen Gemüsegärten, Regenwassergärten, Bestäubergärten und mehr.",
+    "productsTitle": "Produkte",
+    "productsDescription": "Einheimische Pflanzen, Samen, Kompost und natürliche Kosmetik zur Unterstützung Ihres nachhaltigen Lebensstils.",
+    "servicesTitle": "Dienstleistungen",
+    "servicesDescription": "Beratung, Workshops und Kurse zu Permakultur, Agrarökologie und nachhaltiger Entwicklung.",
+    "howWeWorkTitle": "Wie wir arbeiten",
+    "howWeWorkSubtitle": "Unsere Arbeit basiert auf einer Kombination aus Wissenschaft, Kunst und Herz.",
+    "scienceTitle": "Wissenschaft, Ethik und Natur",
+    "scienceDescription": "Unsere Designs basieren auf Permakultur, naturalistischem Landschaftsbau und Agrarökologie.",
+    "systemsTitle": "Nachhaltige Systeme durch Design",
+    "systemsDescription": "Wir schaffen lebendige Räume, die in Harmonie mit der Natur stehen und Ihr Wohlbefinden unterstützen.",
+    "praxisTitle": "Praxis",
+    "praxisDescription": "Wir glauben an Lernen durch Tun und teilen unser Wissen, um tiefgreifende Veränderungen in unseren Lebensweisen zu schaffen.",
+    "benefitsTitle": "Vorteile unserer Arbeit",
+    "benefitsSubtitle": "Unsere Projekte und Dienstleistungen sind darauf ausgelegt, eine Reihe von Vorteilen für Sie, Ihre Gemeinschaft und den Planeten zu bringen.",
+    "benefit1Title": "Verbesserte Ernährung",
+    "benefit1Description": "Zugang zu frischen, biologischen Lebensmitteln aus Ihrem eigenen Garten.",
+    "benefit2Title": "Gesundheit & Wohlbefinden",
+    "benefit2Description": "Räume für Entspannung, Reflexion und Verbindung mit der Natur.",
+    "benefit3Title": "Gemeinschaft & Verbindung",
+    "benefit3Description": "Stärkung der Gemeinschaftsbindungen durch gemeinsame Arbeit und Lernen.",
+    "benefit4Title": "Ökologische Regeneration",
+    "benefit4Description": "Wiederherstellung von Ökosystemen, Verbesserung der Bodengesundheit und effiziente Wasserbewirtschaftung.",
+    "whatCanBeDoneTitle": "Was getan werden kann",
+    "whatCanBeDoneSubtitle": "Unsere Arbeit kann in verschiedenen Kontexten angewendet werden, von kleinen Gärten bis hin zu groß angelegten Projekten.",
+    "item1Title": "Ökosystem-Wiederherstellung",
+    "item2Title": "Homestead- und Gartendesigns",
+    "item3Title": "Essbare Wälder",
+    "item4Title": "Geschlossene Kreislaufsysteme",
+    "item5Title": "Biologische und nachhaltige Lebensmittel",
+    "item6Title": "Nachhaltiges Leben",
+    "item7Title": "Wohlbefinden",
+    "item8Title": "Selbstfürsorge",
+    "item9Title": "Wassersysteme",
+    "clientsTitle": "Kunden und Partner",
+    "clientsSubtitle": "Wir sind stolz darauf, mit einer vielfältigen Gruppe von Kunden und Partnern zusammenzuarbeiten.",
+    "testimonialsTitle": "Gartentransformationen",
+    "testimonialsSubtitle": "Sehen Sie, wie wir gewöhnliche Grasflächen in lebendige, blühende Ökosysteme verwandelt haben",
+    "testimonialValeName": "Vale",
+    "testimonialValeRole": "Hausgartenbesitzerin",
+    "testimonialValeStory": "Unser Hinterhof war nur Gras und Beton. Jetzt ist es ein lebendiges Ökosystem mit Kräutern, Blumen und überall Leben. Die Transformation ist unglaublich!",
+    "testimonialValeBeforeAfter": "Von kargem Gras zu blühender Biodiversität",
+    "testimonialTaniaName": "Tania",
+    "testimonialTaniaRole": "Urbane Gärtnerin",
+    "testimonialTaniaStory": "Was einst eine leblose Grasfläche war, ist jetzt der Lieblingsort unserer Familie. Wir bauen unser eigenes Essen an und die Kinder lieben es, Schmetterlinge in unserem Garten zu beobachten.",
+    "testimonialTaniaBeforeAfter": "Von leerem Rasen zu Familiensanctuary",
+    "readyToTransform": "Bereit, Ihren Raum zu verwandeln?",
+    "startTransformation": "Starten Sie Ihre Transformation",
+    "ctaTitle": "Bereit, Ihr Projekt zu starten?",
+    "ctaSubtitle": "Lassen Sie uns zusammenarbeiten, um eine nachhaltigere Zukunft zu schaffen.",
+    "ctaButton": "Kontaktieren Sie uns"
+  },
+  "AboutPage": {
+    "title": "Über uns",
+    "description": "TerraNostra widmet sich der Stärkung von Gemeinschaften durch regenerative Praktiken und ökologische Bildung.",
+    "ourMissionTitle": "Unsere Mission",
+    "ourMissionSubtitle": "Ein Bekenntnis zur Regeneration",
+    "ourMissionDescription": "Wir glauben an die Kraft regenerativer Praktiken, um unseren Planeten und uns selbst zu heilen. Unsere Mission ist es, Einzelpersonen und Gemeinschaften mit dem Wissen und den Werkzeugen auszustatten, um eine nachhaltigere und reichhaltigere Zukunft zu schaffen.",
+    "ourStoryTitle": "Unsere Geschichte",
+    "ourStorySubtitle": "Von einer gemeinsamen Vision zu einer kollektiven Realität",
+    "ourStoryDescription": "TerraNostra entstand aus einer gemeinsamen Leidenschaft für die Natur und dem Wunsch, einen positiven Einfluss zu nehmen. Was als kleiner Gemeinschaftsgarten begann, hat sich zu einem blühenden Ökosystem von Projekten, Produkten und Dienstleistungen entwickelt, die dazu beitragen, eine nachhaltigere Welt zu schaffen.",
+    "ourTeamTitle": "Unser Team",
+    "ourTeamSubtitle": "Die Menschen hinter TerraNostra",
+    "founder": "Gründer & Lead Designer",
+    "ecologist": "Ökologe & Pädagoge",
+    "communityManager": "Community-Manager",
+    "caroBio1": "Ich bin Carolina Lara, ich habe Ökologie studiert und mich später auf die Bewirtschaftung natürlicher Ressourcen und die Entwicklung des ländlichen Raums spezialisiert. Viele Jahre lang habe ich in ländlichen Gemeinden an Projekten im Zusammenhang mit Landnutzungsänderungen und Landnutzungsplanung sowie an einigen produktiven Projekten gearbeitet.",
+    "caroBio2": "Dann hatte ich zufällig die Gelegenheit, an einem Kurs über ökologischen Landbau und Permakultur teilzunehmen, der meine berufliche und persönliche Perspektive völlig veränderte. Er ermöglichte es mir, das System, in dem wir leben, zu erkennen und mich vor allem zu fragen: Was kann ich mit meinen Händen tun? Welchen Kontakt habe ich zur Erde? Welche Qualität von Lebensmitteln konsumieren wir?, unter vielen anderen Fragen.",
+    "caroBio3": "Derzeit lerne ich weiter über alles, was mich begeistert, und es mit Menschen zu teilen, die wirklich an tiefgreifenden Veränderungen interessiert sind, erfüllt mich mit Hoffnung, Veränderungen in unserer derzeitigen Lebensweise zu erreichen.",
+    "adriBio1": "Permakultur und politische Agroökologie haben mein Leben verändert. Zuerst studierte ich nachhaltige Entwicklung am Colmex im LEAD-Programm, dann arbeitete ich bei einer bekannten mexikanischen Klimastiftung und schließlich zog ich aufs Land, um zu pflanzen und andere Lebensweisen zu erproben.",
+    "adriBio2": "Ich habe Gärten angelegt und es geschafft, bis zu 23 Familien jeden Monat zu ernähren. Ich habe an der Gestaltung und Umsetzung einiger Projekte von 1 Hektar oder etwas weniger teilgenommen, Heilpflanzengärten angepflanzt, Gewächshäuser, Samenhäuser, Hühnerställe, Biofabriken und mehr umgesetzt.",
+    "adriBio3": "Ich glaube, dass die Tatsache, dass ich seit mehr als 10 Jahren mit der Erde arbeite, es mir ermöglicht, eine realistischere Vision mit größerer Erfahrung zu vermitteln, sowie bessere Empfehlungen und Ergebnisse für jeden, der mit uns zusammenarbeiten möchte."
+  },
+  "ProjectsPage": {
+    "title": "Unsere Projekte",
+    "description": "Entdecken Sie unsere Arbeit bei der Schaffung nachhaltiger und regenerativer Systeme.",
+    "project1Title": "Essbarer Wald",
+    "project1Description": "Ein vielfältiges, essbares Ökosystem, das auf Fülle und Widerstandsfähigkeit ausgelegt ist.",
+    "project2Title": "Heilgarten",
+    "project2Description": "Ein heilender Raum voller Pflanzen, die Körper und Seele nähren.",
+    "project3Title": "Bestäuberhabitat",
+    "project3Description": "Ein lebendiger Zufluchtsort für Bienen, Schmetterlinge und andere wichtige Bestäuber.",
+    "project4Title": "Kompostsystem",
+    "project4Description": "Verwandlung von organischen Abfällen in eine wertvolle Ressource für die Bodengesundheit.",
+    "project5Title": "Baumschulen und Vermehrung",
+    "project5Description": "Gestaltung nachhaltiger Gewächshäuser und Pflanzenvermehrungssysteme zur Maximierung der Pflanzenproduktion und -vielfalt.",
+    "project6Title": "Regeneratives Huerto",
+    "project6Description": "Ein produktiver Gemüsegarten, der den Boden regeneriert und die Artenvielfalt erhöht.",
+    "readMore": "Weiterlesen",
+    "designPhilosophyTitle": "Unser Designansatz",
+    "designPhilosophyDescription1": "Die Art des Designs, die wir entwickeln, wird von verschiedenen Wissenschaften, Wissen und Denkschulen wie Permakultur, naturalistischem Landschaftsbau und Agrarökologie unterstützt.",
+    "designPhilosophyDescription2": "Jede von ihnen liefert Designprinzipien, die auf der Fürsorge für die Natur basieren. Integration von Biodiversität und einheimischen Arten, Verwendung organischer Düngemittel, Regenerierung von Böden, effiziente Wasserbewirtschaftung und Schaffung von Landschaften, die Ökosystemdienstleistungen und -funktionen erhalten.",
+    "projectTypesTitle": "Bei welchen Arten von Projekten können wir Ihnen helfen",
+    "permacultura": "Permakultur",
+    "paisajismoNaturalista": "Naturalistischer Landschaftsbau",
+    "agroecologia": "Agrarökologie",
+    "projectTypes": {
+      "familyGardens": "Familien-Gärten",
+      "smallFarms": "Kleine Bauernhöfe",
+      "communitySpaces": "Gemeinschaftsräume",
+      "publicSpaces": "Öffentliche Gärten",
+      "educationalProjects": "Bildungsprojekte",
+      "communityInitiatives": "Gemeinschaftsinitiativen"
+    },
+    "socioenvironmentalBenefits": {
+      "soilFertility": "Verbessert die Bodenfruchtbarkeit auf natürliche Weise",
+      "reduceChemicalFertilizers": "Reduziert die Abhängigkeit von chemischen Düngemitteln",
+      "promoteLocalBiodiversity": "Fördert die lokale Artenvielfalt",
+      "strengthenFoodSovereignty": "Stärkt die familiäre Ernährungssouveränität",
+      "increasePollinators": "Erhöht die einheimische Bestäuberpopulation",
+      "improveFruitProduction": "Verbessert die Produktion von Obst und Gemüse",
+      "educateBiodiversity": "Bildet über die Bedeutung der Artenvielfalt auf",
+      "createNaturalBeauty": "Schafft Räume natürlicher Schönheit in der Gemeinschaft",
+      "createSelfSustainingEcosystems": "Schafft sich selbst erhaltende Ökosysteme",
+      "provideYearRoundFood": "Bietet das ganze Jahr über Nahrung",
+      "restoreNaturalHabitats": "Stellt natürliche Lebensräume wieder her",
+      "reduceSoilErosion": "Reduziert die Bodenerosion",
+      "preserveTraditionalMedicine": "Bewahrt traditionelles medizinisches Wissen",
+      "reduceHealthCosts": "Reduziert familiäre Gesundheitskosten",
+      "promoteMedicinalSelfSufficiency": "Fördert medizinische Selbstversorgung",
+      "conserveNativeSpecies": "Erhält einheimische Heilpflanzenarten",
+      "reduceOrganicWaste": "Reduziert organische Abfälle auf Deponien",
+      "createNaturalFertilizer": "Schafft hochwertigen natürlichen Dünger",
+      "improveSoilStructure": "Verbessert die Bodenstruktur",
+      "reduceMethaneEmissions": "Reduziert Methanemissionen",
+      "preserveLocalSeedVarieties": "Bewahrt lokale Saatgutsorten",
+      "reduceProductionCosts": "Reduziert Produktionskosten",
+      "strengthenFoodAutonomy": "Stärkt die Ernährungssouveränität",
+      "maintainGeneticDiversity": "Erhält die genetische Vielfalt"
+    },
+    "detailedDescriptions": {
+      "regenerativeHuerto": "Regeneratives Gartensystem, das die Bodengesundheit wiederherstellt und nachhaltige Lebensmittelproduktion fördert.",
+      "pollinatorHabitat": "Gärten, die speziell dafür konzipiert sind, Bestäuber anzulocken und zu erhalten, was für die Lebensmittelproduktion unerlässlich ist.",
+      "foodForest": "Essbare Wälder, die die natürliche Struktur von Waldökosystemen nachahmen, um nachhaltig Lebensmittel zu produzieren.",
+      "medicinalGarden": "Spezialisierte Gärten für Heilpflanzen, die traditionelle Weisheit mit modernen nachhaltigen Praktiken verbinden.",
+      "compostingSystem": "Kompostierungssysteme, die organische Abfälle in wertvolle Ressourcen für die Bodenfruchtbarkeit umwandeln.",
+      "nurseryReproduction": "Spezialisierte Baumschulen für die Vermehrung und Erhaltung einheimischer Pflanzen und angepasster lokaler Sorten."
+    }
+  },
+  "DesignPhilosophy": {
+    "permacultura": {
+      "title": "Permakultur",
+      "description": "Ein umfassendes Designsystem, das darauf abzielt, nachhaltige und ökologisch gesunde menschliche Siedlungen zu schaffen.",
+      "principlesTitle": "Grundprinzipien",
+      "careOfEarth": "Sorge für die Erde: Erhaltung und Regenerierung natürlicher Systeme",
+      "careOfPeople": "Sorge für die Menschen: Befriedigung menschlicher Bedürfnisse auf nachhaltige Weise",
+      "fairShare": "Faires Teilen: Gleichmäßige Verteilung von Ressourcen und Überschüssen",
+      "applicationsTitle": "Praktische Anwendungen",
+      "gardenDesign": "Gestaltung von essbaren Gärten und Landschaften",
+      "waterSystems": "Wassersammel- und Wiederverwendungssysteme",
+      "naturalBuilding": "Konstruktion mit natürlichen und lokalen Materialien",
+      "animalIntegration": "Integration von Tieren in landwirtschaftliche Systeme",
+      "benefitsTitle": "Vorteile",
+      "foodSelfSufficiency": "Größere Ernährungsselbstversorgung",
+      "environmentalImpact": "Reduzierte Umweltbelastung",
+      "climateResilience": "Widerstandsfähigkeit gegen Klimaveränderungen",
+      "communityStrengthening": "Stärkung lokaler Gemeinschaften"
+    },
+    "paisajismo": {
+      "title": "Naturalistischer Landschaftsbau",
+      "description": "Gestaltung von Räumen, die die Schönheit und Funktionalität natürlicher Ökosysteme nachahmen und feiern.",
+      "designApproachTitle": "Designansatz",
+      "naturalPatterns": "Beobachtung natürlicher Muster",
+      "nativePlants": "Verwendung einheimischer und angepasster Pflanzen",
+      "wildlifeHabitats": "Schaffung von Lebensräumen für Wildtiere",
+      "harmoniousIntegration": "Harmonische Integration in die Umwelt",
+      "keyElementsTitle": "Schlüsselelemente",
+      "pollinatorGardens": "Bestäubergärten",
+      "biodiversityCorridors": "Biodiversitätskorridore",
+      "naturalDrainage": "Natürliche Entwässerungssysteme",
+      "organicMaterials": "Organische und recycelte Materialien",
+      "environmentalImpactTitle": "Umweltauswirkungen",
+      "nativeSpecies": "Erhaltung einheimischer Arten",
+      "airQuality": "Verbesserte Luftqualität",
+      "soilErosion": "Reduzierte Bodenerosion",
+      "microclimates": "Schaffung vorteilhafter Mikroklimata"
+    },
+    "agroecologia": {
+      "title": "Agrarökologie",
+      "description": "Wissenschaft, die ökologische Prinzipien in die Gestaltung und Bewirtschaftung nachhaltiger landwirtschaftlicher Systeme integriert.",
+      "scientificPrinciplesTitle": "Wissenschaftliche Prinzipien",
+      "biodiversity": "Biologische Vielfalt in landwirtschaftlichen Systemen",
+      "nutrientRecycling": "Nährstoff- und Energierecycling",
+      "ecologicalInteractions": "Vorteilhafte ökologische Wechselwirkungen",
+      "systemAdaptation": "Systemanpassung und -evolution",
+      "sustainablePracticesTitle": "Nachhaltige Praktiken",
+      "cropRotation": "Fruchtfolge und -assoziation",
+      "pestManagement": "Integrierte Schädlingsbekämpfung",
+      "soilConservation": "Bodenschutz",
+      "waterEfficiency": "Effiziente Wassernutzung",
+      "socioeconomicBenefitsTitle": "Sozioökonomische Vorteile",
+      "productionStability": "Größere Produktionsstabilität",
+      "inputCosts": "Reduzierte Inputkosten",
+      "nutritionalQuality": "Verbesserte Nährstoffqualität",
+      "localMarkets": "Stärkung lokaler Märkte"
+    },
+    "howWeApply": "Wie wenden wir {approach} in unseren Projekten an?",
+    "howWeApplyDescription": "Jedes Projekt, das wir entwickeln, integriert diese Prinzipien ganzheitlich und passt sie an die spezifischen Bedingungen des Ortes und die Bedürfnisse der Gemeinschaft an. Unser Team kombiniert wissenschaftliches Wissen mit traditioneller Weisheit, um Lösungen zu schaffen, die sowohl ökologisch gesund als auch sozial gerecht sind."
+  },
+  "ServicesPage": {
+    "title": "Unsere Dienstleistungen",
+    "description": "Wir bieten eine Reihe von Dienstleistungen an, die Ihnen beim Aufbau Ihrer eigenen nachhaltigen Systeme helfen."
+  },
+  "ServicesHero": {
+    "title": "Unsere Dienstleistungen",
+    "description": "Wir bieten eine Reihe von Dienstleistungen an, um Ihnen beim Aufbau Ihrer eigenen nachhaltigen Systeme zu helfen, von Beratung und Design bis hin zu Workshops und Kursen."
+  },
+  "ServicesHowWork": {
+    "title": "Wie wir arbeiten",
+    "subtitle": "Unser Ansatz basiert auf der Kombination von Wissenschaft, Kunst und Herz, um regenerative Systeme zu schaffen.",
+    "services": {
+      "consulting": {
+        "title": "Beratung",
+        "description": "Fachberatung zu ökologischem Design, Permakultur und Agrarökologie für Projekte jeder Größe."
+      },
+      "training": {
+        "title": "Schulung",
+        "description": "Maßgeschneiderte Workshops und Kurse zur Entwicklung praktischer Fähigkeiten in regenerativen Systemen."
+      },
+      "mentoring": {
+        "title": "Mentoring",
+        "description": "Persönliche Begleitung für Landbesitzer und Landwirte bei der Umsetzung ihrer Projekte."
+      },
+      "projects": {
+        "title": "Projekte",
+        "description": "Vollständiges Design und Umsetzung regenerativer Systeme von der Planung bis zur Ausführung."
+      }
+    },
+    "cta": {
+      "title": "Bereit, Ihr Projekt zu starten?",
+      "description": "Kontaktieren Sie uns, um zu besprechen, wie wir Ihnen helfen können, eine nachhaltigere Zukunft zu schaffen.",
+      "button": "Starten Sie Ihre Transformation"
+    }
+  },
+  "ServicesCatalog": {
+    "title": "Unsere ökologischen Design- und Permakultur-Dienstleistungen",
+    "subtitle": "Wir bieten eine ganzheitliche Palette von Dienstleistungen an, um regenerative Systeme in jedem Maßstab zu entwerfen, umzusetzen und zu verwalten, von städtischen Gärten bis hin zu großen ländlichen Landschaften.",
+    "design": {
+      "title": "I. Ökologisches Design",
+      "items": [
+        {
+          "title": "Permakultur-Design-Masterpläne",
+          "description": "Konzeptionelles und detailliertes Design für Farmen, Höfe und Gemeinschaften, einschließlich Zonen- und Sektorplanung, Wassergewinnung, Lebensmittelwälder und integrierte Tiersysteme. Klima- und Mikroklima-Bewertung, Topographie- und Hydrologie-Kartierung, Bodenanalyse, Sonnen- und Schattenmuster, Bestandsaufnahme bestehender Vegetation und Wildtiere sowie Ressourcenbestand."
+        },
+        {
+          "title": "Regenerative Landschaftsgestaltung und Gartenbau",
+          "description": "Design von essbaren Landschaften, Bestäubergärten und Wildtiergärten, Regenwassergärten, Heilpflanzengärten und aromatische Kräuterspiralen."
+        },
+        {
+          "title": "Landschaftsmaßstäbliches ökologisches Design",
+          "description": "Wassereinzugsgebiet-Restaurierungsplanung, Uferzonen-Rehabilitation, ökologische Korridor-Gestaltung, Lebensmittelwälder und Agroforst- und Silvopastoral-Systeme."
+        }
+      ]
+    },
+    "education": {
+      "title": "II. Bildung, Ausbildung und Kapazitätsaufbau",
+      "items": [
+        {
+          "title": "Maßgeschneiderte Workshops und Kurse",
+          "description": "Landschaftsgestaltungskurse, Permakultur, Agrarökologie-Prinzipien, Gartengestaltung, Gärten und verschiedene Systeme."
+        },
+        {
+          "title": "Vor-Ort-Demonstrationen und Führungen",
+          "description": "Präsentation implementierter Projekte als Lernorte und praktische Fähigkeitsentwicklungssitzungen."
+        },
+        {
+          "title": "Mentoring-Programme",
+          "description": "Persönliche Beratung für Landbesitzer/Landwirte, konzentriert auf Begleitung bei der Gestaltung ihrer Räume oder Projekte."
+        },
+        {
+          "title": "Entwicklung von Bildungsmaterialien",
+          "description": "Maßgeschneiderte Anleitungen, Handbücher, Online-Kurse, Webinare und Lehrplanentwicklung für Schulen und Gemeinschaften."
+        }
+      ]
+    },
+    "monitoring": {
+      "title": "III. Überwachung, Bewertung und Forschung",
+      "items": [
+        {
+          "title": "Ökologische Wirkungsüberwachung",
+          "description": "Verfolgung des Fortschritts in der Bodengesundheit, Biodiversitätsstudien, Wasserqualitätsüberwachung und Kohlenstoffsequestrierungsbewertung."
+        },
+        {
+          "title": "Systemleistungsbewertung",
+          "description": "Bewertung von Produktivität, Ertragsvielfalt, Wassersystemeffizienz und wirtschaftlicher Tragfähigkeit."
+        },
+        {
+          "title": "Angewandte Forschung und Entwicklung",
+          "description": "Gestaltung und Verwaltung von Feldforschungsversuchen, partizipative Aktionsforschung und Dokumentation bewährter Praktiken."
+        }
+      ]
+    },
+    "productsCta": {
+      "title": "Benötigen Sie Pflanzen, Samen oder Naturprodukte?",
+      "description": "Während Sie Ihr ideales Ökosystem gestalten, denken Sie daran, dass wir auch eine kuratierte Auswahl an einheimischen Samen, robusten Pflanzen und Bio-Produkten anbieten, um Ihr Projekt zum Leben zu erwecken.",
+      "button": "Produkte erkunden"
+    }
+  },
+  "ProductsPage": {
+    "title": "Unsere Produkte",
+    "description": "Stöbern Sie in unserer Auswahl an einheimischen Samen, Pflanzen und Bio-Hautpflegeprodukten."
+  },
+  "ContactPage": {
+    "title": "Kontaktieren Sie uns",
+    "description": "Nehmen Sie Kontakt mit uns auf, um mehr über unsere Arbeit zu erfahren und wie wir Ihnen helfen können."
+  },
+  "Header": {
+    "home": "Start",
+    "about": "Über uns",
+    "projects": "Projekte",
+    "services": "Dienstleistungen",
+    "products": "Produkte",
+    "contact": "Kontakt"
+  },
+  "Footer": {
+    "copyright": "© {year} TerraNostra. Alle Rechte vorbehalten."
+  },
+  "LocaleSwitcher": {
+    "de": "Deutsch",
+    "es": "Spanische",
+    "en": "English",
+    "label": "Sprache"
+  },
+  "LoginPage": {
+    "credentials": "Anmeldedaten: jane@doe.com / next-intl",
+    "description": "Bitte geben Sie Ihre Daten ein.",
+    "email": "Email",
+    "invalidCredentials": "Bitte überprüfen Sie Ihre Anmeldedaten.",
+    "invalidEmail": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+    "invalidPassword": "Bitte geben Sie ein Passwort ein.",
+    "login": "Anmelden",
+    "password": "Passwort",
+    "title": "Willkommen zurück"
+  },
+  "ProfilePage": {
+    "title": "Profil"
+  },
+  "ContactHero": {
+    "title": "Kontaktieren Sie uns",
+    "description": "Wir würden uns freuen, von Ihnen zu hören. Ob Sie eine Frage zu unseren Dienstleistungen haben, ein Projekt besprechen möchten oder einfach nur Hallo sagen wollen, zögern Sie nicht, uns zu kontaktieren."
+  },
+  "ContactForm": {
+    "title": "Lassen Sie uns zusammen wachsen",
+    "description": "Erzählen Sie uns von Ihrer Permakultur-Vision und wie wir Ihnen helfen können, sie zum Leben zu erwecken",
+    "fullName": "Vollständiger Name",
+    "fullNamePlaceholder": "Ihr vollständiger Name",
+    "email": "E-Mail-Adresse",
+    "emailPlaceholder": "ihre@email.com",
+    "phone": "Telefonnummer",
+    "phonePlaceholder": "+52 221 164 4452",
+    "location": "Standort",
+    "locationPlaceholder": "Stadt, Bundesland/Land",
+    "servicesInterest": "An welchen Dienstleistungen sind Sie interessiert?",
+    "services": {
+      "design": "Designdienstleistungen",
+      "implementation": "Projektdurchführung",
+      "courses": "Kurse & Workshops",
+      "products": "Pflanzen, Samen & Naturprodukte"
+    },
+    "timeline": "Projektzeitplan",
+    "timelinePlaceholder": "Wann möchten Sie beginnen?",
+    "timelineOptions": {
+      "asap": "So schnell wie möglich",
+      "oneToThreeMonths": "Innerhalb von 1-3 Monaten",
+      "threeToSixMonths": "Innerhalb von 3-6 Monaten",
+      "sixToTwelveMonths": "Innerhalb von 6-12 Monaten",
+      "planning": "Nur vorausplanen"
+    },
+    "needsTitle": "Erzählen Sie uns von Ihren Bedürfnissen und Ihrer Vision",
+    "needsPlaceholder": "Beschreiben Sie Ihr Projekt, Ihre Ziele, Herausforderungen oder spezifische Fragen, die Sie haben. Je mehr Details Sie teilen, desto besser können wir Ihnen helfen, ein nachhaltiges und blühendes Ökosystem zu schaffen.",
+    "budget": "Budgetbereich (optional)",
+    "budgetPlaceholder": "Wählen Sie Ihren Budgetbereich",
+    "budgetOptions": {
+      "under1k": "Unter 1.000 $",
+      "oneToFiveK": "1.000 $ - 5.000 $",
+      "fiveToFifteenK": "5.000 $ - 15.000 $",
+      "fifteenToFiftyK": "15.000 $ - 50.000 $",
+      "fiftyKPlus": "50.000 $+",
+      "discuss": "Lassen Sie uns diskutieren"
+    },
+    "submit": "Pflanzen Sie die Samen der Zusammenarbeit",
+    "responseMessage": "Wir antworten in der Regel innerhalb von 24 Stunden. Lassen Sie uns gemeinsam etwas Erstaunliches kultivieren! 🌱"
+  },
+  "SeedsSection": {
+    "title": "Premium Bio-",
+    "titleHighlight": "Samenkollektion",
+    "description": "Entdecken Sie unsere sorgfältig kuratierte Auswahl an Bio-, Erbstück- und traditionellen Samen. Jeder Samen wird für seine Qualität, Keimrate und seinen Beitrag zur Biodiversität ausgewählt.",
+    "features": {
+      "organicSeeds": {
+        "title": "100% Bio-Samen",
+        "description": "Alle unsere Samen sind zertifiziert biologisch und garantieren, dass sie frei von synthetischen Chemikalien sind und mit nachhaltigen Praktiken angebaut werden."
+      },
+      "germinationRate": {
+        "title": "Hohe Keimrate",
+        "description": "Wir testen jede Charge, um optimale Keimraten zu gewährleisten und Ihnen den besten Start für Ihren Garten zu geben."
+      },
+      "traditionalVarieties": {
+        "title": "Traditionelle Sorten",
+        "description": "Bewahren Sie die Biodiversität mit unserer Sammlung von Erbstück- und traditionellen Samensorten, die von Generation zu Generation weitergegeben wurden."
+      }
+    },
+    "catalog": {
+      "title": "Samenkatalog",
+      "description": "Unser umfassender Samenkatalog wird mit den neuesten Sorten aktualisiert. Werden Sie benachrichtigt, wenn er bereit ist, und erhalten Sie exklusiven frühen Zugang.",
+      "downloadButton": "Katalog herunterladen",
+      "learnMoreButton": "Mehr erfahren & Abonnieren"
+    },
+    "status": {
+      "organicSeeds": "100% Bio",
+      "highGermination": "Hohe Keimrate",
+      "traditionalVarieties": "Traditionelle Sorten"
+    }
+  },
+  "PlantsSection": {
+    "title": "Einheimische & Ökologische",
+    "titleHighlight": "Pflanzenkollektion",
+    "description": "Verwandeln Sie Ihren Raum mit unserer Auswahl an einheimischen Pflanzen, ökologischen Wiederherstellungsarten und Gartenfavoriten. Jede Pflanze wird für ihre Umweltvorteile und Schönheit ausgewählt.",
+    "features": {
+      "nativeSpecies": {
+        "title": "Einheimische Arten",
+        "description": "Unterstützen Sie lokale Ökosysteme mit Pflanzen, die natürlich an die Klima- und Bodenbedingungen Ihrer Region angepasst sind."
+      },
+      "ecologicalRestoration": {
+        "title": "Ökologische Wiederherstellung",
+        "description": "Spezialisierte Pflanzen zur Wiederherstellung degradierter Landschaften, Verbesserung der Bodengesundheit und Schaffung von Wildtierhabitaten."
+      },
+      "acceleratedGrowth": {
+        "title": "Beschleunigtes Wachstum",
+        "description": "Unsere Pflanzen werden mit fortschrittlichen Techniken angebaut, um eine starke Wurzelentwicklung und schnelle Etablierung zu gewährleisten."
+      }
+    },
+    "catalog": {
+      "title": "Pflanzenkatalog",
+      "description": "Unser umfassender Pflanzenkatalog wird mit den neuesten Sorten aktualisiert. Werden Sie benachrichtigt, wenn er bereit ist, und erhalten Sie exklusiven frühen Zugang.",
+      "downloadButton": "Katalog herunterladen",
+      "learnMoreButton": "Mehr erfahren & Abonnieren"
+    },
+    "status": {
+      "certifiedNative": "Zertifiziert einheimisch",
+      "ecologicalRestoration": "Ökologische Wiederherstellung",
+      "guaranteedGrowth": "Garantiertes Wachstum"
+    }
+  },
+  "EmailSubscription": {
+    "title": "Bleiben Sie auf dem Laufenden",
+    "description": "Abonnieren Sie, um Updates über unsere Produkte, Sonderangebote und Gartentipps zu erhalten. Wir benachrichtigen Sie, sobald unsere Kataloge bereit sind!",
+    "form": {
+      "name": "Vollständiger Name",
+      "namePlaceholder": "Geben Sie Ihren vollständigen Namen ein",
+      "email": "E-Mail-Adresse",
+      "emailPlaceholder": "Geben Sie Ihre E-Mail-Adresse ein",
+      "interests": "Produktinteressen",
+      "message": "Zusätzliche Nachricht",
+      "messagePlaceholder": "Erzählen Sie uns von Ihren Gartenzielen oder spezifischen Fragen...",
+      "newsletter": "Abonnieren Sie unseren Newsletter für Gartentipps und Updates",
+      "submit": "Abonnieren & Benachrichtigungen erhalten",
+      "submitting": "Abonnieren..."
+    },
+    "success": {
+      "title": "Vielen Dank!",
+      "message": "Sie haben sich erfolgreich abonniert. Wir benachrichtigen Sie, sobald unsere Kataloge bereit sind, und senden Ihnen exklusive Updates!"
+    }
+  },
+  "ProductsLoading": {
+    "title": "Laden unserer grünen Sammlung",
+    "description": "Entdecken der feinsten Samen, Pflanzen und nachhaltigen Lösungen für Ihren Garten..."
+  },
+  "SelfCareSection": {
+    "title": "Entdecken Sie unsere Premium-",
+    "titleHighlight": "Selbstfürsorge-Produkte",
+    "description": "Erleben Sie die höchste Qualität natürlicher Produkte und Geschäftsmöglichkeiten mit unseren vertrauenswürdigen Partnern. Wir haben sorgfältig Partner ausgewählt, die unsere Werte von Nachhaltigkeit, Qualität und persönlicher Fürsorge teilen.",
+    "features": {
+      "highestQuality": {
+        "title": "Höchste Qualitätsstandards",
+        "description": "Alle Produkte erfüllen strenge Qualitätsstandards und garantieren, dass Sie nur die besten natürlichen Inhaltsstoffe und Formulierungen erhalten."
+      },
+      "businessOpportunities": {
+        "title": "Geschäftsmöglichkeiten",
+        "description": "Entdecken Sie Partnerschaftsmöglichkeiten und Geschäftsmodelle, die mit nachhaltigen und regenerativen Praktiken übereinstimmen."
+      },
+      "personalExperience": {
+        "title": "Persönliche Erfahrung",
+        "description": "Unsere Partner haben die Vorteile dieser Produkte und Geschäftsmodelle persönlich getestet und erlebt."
+      }
+    },
+    "discover": {
+      "title": "Entdecken Sie unsere Partner",
+      "description": "Erfahren Sie mehr über unsere vertrauenswürdigen Partner und erkunden Sie ihre Produkte und Geschäftsmöglichkeiten.",
+      "exploreButton": "Partner erkunden"
+    },
+    "partnerSelection": {
+      "title": "Kennen Sie sie?",
+      "description": "Kennen Sie Caro oder Adri?",
+      "caro": "Caro",
+      "adri": "Adri",
+      "neither": "Sie kennen keinen",
+      "neitherDescription": "Wir weisen Ihnen automatisch einen unserer Partner basierend auf unserem fairen Rotationssystem zu."
+    },
+    "status": {
+      "highestQuality": "Höchste Qualität",
+      "businessOpportunities": "Geschäftsmöglichkeiten",
+      "personalExperience": "Persönliche Erfahrung"
+    }
+  }
+}
