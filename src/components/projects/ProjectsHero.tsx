@@ -37,8 +37,8 @@ const ProjectsHero: React.FC = () => {
       type: 'circle',
       cx: 620,
       cy: 260,
-      r: 0,
-      animate: {r: [0, 20, 15, 25]},
+      r: 1,
+      animate: {r: [1, 20, 15, 25]},
       transition: {
         duration: 20,
         delay: 1,
@@ -51,8 +51,8 @@ const ProjectsHero: React.FC = () => {
       type: 'circle',
       cx: 750,
       cy: 200,
-      r: 0,
-      animate: {r: [0, 30, 25, 35]},
+      r: 1,
+      animate: {r: [1, 30, 25, 35]},
       transition: {
         duration: 40,
         delay: 2,
@@ -65,8 +65,8 @@ const ProjectsHero: React.FC = () => {
       type: 'circle',
       cx: 285,
       cy: 262,
-      r: 0,
-      animate: {r: [0, 30, 25, 35]},
+      r: 1,
+      animate: {r: [1, 30, 25, 35]},
       transition: {
         duration: 40,
         delay: 2,

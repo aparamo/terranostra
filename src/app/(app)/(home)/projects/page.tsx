@@ -116,7 +116,7 @@ export default function ProjectsPage() {
   ];
 
   return (
-    <>
+    <div className="relative">
       <ProjectsHero />
 
       {/* Design Philosophy Section */}
@@ -314,6 +314,6 @@ export default function ProjectsPage() {
           </div>
         </div>
       </div>
-    </>
+    </div>
   );
 }

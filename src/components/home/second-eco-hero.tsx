@@ -66,9 +66,11 @@ const SecondEcoHero: React.FC = () => {
     const handleMouseMove = (e: MouseEvent) => {
       if (containerRef.current) {
         const rect = containerRef.current.getBoundingClientRect();
+        const x = rect.width > 0 ? (e.clientX - rect.left) / rect.width : 0;
+        const y = rect.height > 0 ? (e.clientY - rect.top) / rect.height : 0;
         setMousePosition({
-          x: (e.clientX - rect.left) / rect.width,
-          y: (e.clientY - rect.top) / rect.height
+          x: Math.max(0, Math.min(1, x)), // Clamp between 0 and 1
+          y: Math.max(0, Math.min(1, y))  // Clamp between 0 and 1
         });
       }
     };
@@ -130,9 +132,9 @@ const SecondEcoHero: React.FC = () => {
 
           {/* Organic shapes */}
           <motion.circle
-            cx={600 + mousePosition.x * 100}
-            cy={200 + mousePosition.y * 50}
-            r="80"
+            cx={600 + (mousePosition.x || 0) * 100}
+            cy={200 + (mousePosition.y || 0) * 50}
+            r={80}
             fill="url(#organicGradient)"
             animate={{
               r: [80, 120, 90, 110, 80],
@@ -145,10 +147,10 @@ const SecondEcoHero: React.FC = () => {
             }}
           />
           <motion.ellipse
-            cx={300 + mousePosition.x * 80}
-            cy={600 + mousePosition.y * 40}
-            rx="60"
-            ry="40"
+            cx={300 + (mousePosition.x || 0) * 80}
+            cy={600 + (mousePosition.y || 0) * 40}
+            rx={60}
+            ry={40}
             fill="url(#organicGradient)"
             animate={{
               rx: [60, 80, 70, 90, 60],
@@ -253,8 +255,8 @@ const SecondEcoHero: React.FC = () => {
       <motion.div
         className="absolute pointer-events-none"
         style={{
-          left: mousePosition.x * 100 + '%',
-          top: mousePosition.y * 100 + '%',
+          left: (mousePosition.x || 0) * 100 + '%',
+          top: (mousePosition.y || 0) * 100 + '%',
           transform: 'translate(-50%, -50%)'
         }}
       >

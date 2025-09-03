@@ -48,8 +48,8 @@ const ProductsHero: React.FC = () => {
       type: 'circle',
       cx: 450,
       cy: 300,
-      r: 0,
-      animate: {r: [0, 15, 12, 18]},
+      r: 1,
+      animate: {r: [1, 15, 12, 18]},
       transition: {duration: 25, delay: 1, repeat: Infinity, ease: 'easeInOut'},
       className: 'fill-emerald-400/40'
     },
@@ -57,8 +57,8 @@ const ProductsHero: React.FC = () => {
       type: 'circle',
       cx: 750,
       cy: 350,
-      r: 0,
-      animate: {r: [0, 20, 18, 25]},
+      r: 1,
+      animate: {r: [1, 20, 18, 25]},
       transition: {duration: 30, delay: 2, repeat: Infinity, ease: 'easeInOut'},
       className: 'fill-emerald-400/40'
     },
@@ -66,8 +66,8 @@ const ProductsHero: React.FC = () => {
       type: 'circle',
       cx: 500,
       cy: 500,
-      r: 0,
-      animate: {r: [0, 18, 15, 22]},
+      r: 1,
+      animate: {r: [1, 18, 15, 22]},
       transition: {
         duration: 28,
         delay: 1.5,

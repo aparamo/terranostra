@@ -34,10 +34,10 @@ export default function MobileMenu() {
             )}
           >
             <Image
-              src={'/TN-logo-sm.png'}
+              src={'/logof-v0fix-web.png'}
               alt={'menu logo'}
-              width={200}
-              height={191}
+              width={150}
+              height={144}
             />
           </SheetTitle>
         </SheetHeader>

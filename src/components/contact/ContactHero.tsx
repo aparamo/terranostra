@@ -12,12 +12,11 @@ const Circle: React.FC<CircleProps> = ({delay, duration = 4}) => {
     <motion.circle
       cx="50%"
       cy="50%"
-      r="0"
       fill="none"
       stroke="currentColor"
       strokeWidth={0.5}
-      initial={{r: 0, opacity: 0.7}}
-      animate={{r: '50%', opacity: 0}}
+      initial={{r: 1, opacity: 0.7}}
+      animate={{r: 500, opacity: 0}}
       transition={{
         duration,
         delay,

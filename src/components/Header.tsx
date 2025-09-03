@@ -23,23 +23,24 @@ export default function Header() {
   const logoSrc =
     mounted && theme === 'dark'
       ? '/logof-v0-web-dark3.png'
-      : '/logof-v0-web.png';
+      : '/logof-v0fix-web.png';
 
   return (
     <header className="bg-background border-b p-4 min-h-20">
       <div className="container mx-auto flex  items-center justify-end">
-        <div className="z-50 absolute lg:left-[5%] lg:top-[0%] left-[1%] top-[8%] ">
+        <div className="z-50 absolute lg:left-[5%] lg:top-[0%] left-1/2 top-[1%] transform -translate-x-1/2 lg:transform-none">
           <Link href={'/'}>
             <Image
               src={logoSrc}
               alt={'Logo TerraNostra'}
               width={330}
               height={314}
-              className="h-auto w-[190px] lg:w-[280px] max-w-72"
+              className="h-auto w-[160px] lg:w-[280px] max-w-72"
+              priority
             />
           </Link>
         </div>
-        <nav className="hidden md:flex gap-7 items-center justify-end">
+        <nav className="hidden lg:flex gap-7 items-center justify-end">
           <NavLink href="/">{t('home')}</NavLink>
           <NavLink href="/about">{t('about')}</NavLink>
           <NavLink href="/projects">{t('projects')}</NavLink>
@@ -50,7 +51,7 @@ export default function Header() {
           {/* <CartButton /> */}
           <ThemeSwitcher />
         </nav>
-        <div className="md:hidden">
+        <div className="lg:hidden">
           <MobileMenu />
         </div>
       </div>

@@ -6,7 +6,7 @@ import ServicesHowWork from '@/components/services/ServicesHowWork';
 
 export default function ServicesPage() {
   return (
-    <div>
+    <div className="relative">
       <ServicesHero />
       <ServicesHowWork />
       <ServicesCatalog />

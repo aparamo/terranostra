@@ -9,7 +9,7 @@ export default function AboutPage() {
   const t = useTranslations('AboutPage');
 
   return (
-    <div className="bg-gray-50/90 dark:bg-teal-900">
+    <div className="relative bg-gray-50/90 dark:bg-teal-900">
       {/* Hero Section */}
       {/* <div className="relative isolate overflow-hidden py-24 sm:py-32">
         <Image

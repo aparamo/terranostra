@@ -9,7 +9,7 @@ import {HomeServices} from '@/components/home/HomeServices';
 
 export default function IndexPage() {
   return (
-    <main className="dark:bg-cyan-950">
+    <main className="relative dark:bg-cyan-950">
       {/* <HeroSection /> */}
       <SecondEcoHero />
       {/* <WhatWeDoSection /> */}
