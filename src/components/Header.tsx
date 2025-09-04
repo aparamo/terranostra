@@ -35,7 +35,7 @@ export default function Header() {
               alt={'Logo TerraNostra'}
               width={330}
               height={314}
-              className="h-auto w-[160px] lg:w-[280px] max-w-72"
+              className="h-auto w-[160px] md:w-[200px] lg:w-[220px] xl:w-[240px] max-w-72"
               priority
             />
           </Link>
