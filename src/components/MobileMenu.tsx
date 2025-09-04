@@ -11,6 +11,7 @@ import {Menu} from 'lucide-react';
 import {useTranslations} from 'next-intl';
 import NavLink from './NavLink';
 import LocaleSwitcher from './LocaleSwitcher';
+import {ThemeSwitcher} from './ThemeSwitcher';
 import {Poppins} from 'next/font/google';
 import clsx from 'clsx';
 import Image from 'next/image';
@@ -22,7 +23,7 @@ export default function MobileMenu() {
 
   return (
     <Sheet>
-      <SheetTrigger className="md:hidden">
+      <SheetTrigger>
         <Menu className="w-8 h-8" />
       </SheetTrigger>
       <SheetContent>
@@ -49,8 +50,9 @@ export default function MobileMenu() {
           <NavLink href="/products">{t('products')}</NavLink>
           <NavLink href="/contact">{t('contact')}</NavLink>
         </nav>
-        <div className="mt-8">
+        <div className="mt-8 flex flex-col space-y-4">
           <LocaleSwitcher />
+          <ThemeSwitcher />
         </div>
       </SheetContent>
     </Sheet>
